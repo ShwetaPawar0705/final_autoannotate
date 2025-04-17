@@ -1,0 +1,14 @@
+sam2
+samv2
+uvicorn
+fastapi
+roboflow
+tfds-nightly
+opencv-python
+tensorflow-cpu
+python-multipart
+tensorflow-datasets
+torch==2.5.1
+hydra-core==1.3.2
+torchvision==0.20.1
+supervision==0.20.0
